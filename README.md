@@ -23,7 +23,7 @@
 
 > **报名**  
 + 下载报名表，[编译系统设计赛报名表.xlsx](https://gitlab.eduxiji.net/nscscc/docs/-/blob/master/编译系统设计赛报名表.xlsx) 填写后，发至组委会邮箱<zhourui@hzbook.com>
-+ 填写右方的在线报名表，报名截止日前，都可以修改报名信息。
++ 在[官网](https://course.educg.net/acm/index.jsp)填写右方的在线报名表，报名截止日前，都可以修改报名信息。
 
 
 > **技术支持**  
