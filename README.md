@@ -19,6 +19,7 @@
 + 编译器目标平台：[树莓派4B（ARM Cortex-A72 CPU，2GB LPDDR4 SDRAM 内存）](https://www.raspberrypi.org/)，报名截止后，大赛组委会给参赛队伍邮寄树莓派。[树莓派相关开发文档_2020年5月6日.pdf](https://gitlab.eduxiji.net/nscscc/docs/-/blob/master/树莓派相关开发文档.pdf)  
 + 语言定义与竞赛要求：[SysY语言定义.pdf](https://gitlab.eduxiji.net/nscscc/docs/-/blob/master/SysY语言定义.pdf)、[SysY运行时库.pdf](https://gitlab.eduxiji.net/nscscc/docs/-/blob/master/SysY运行时库.pdf)、[竞赛要求说明.pdf](https://gitlab.eduxiji.net/nscscc/docs/-/blob/master/竞赛要求说明.pdf)  
 + git协作：要求使用git进行协作开发，gitlab服务地址：[gitlab.eduxiji.net](https://gitlab.eduxiji.net/)，相关注册规范[代码托管平台使用文档与规范](https://gitlab.eduxiji.net/nscscc/docs/-/blob/master/代码托管平台使用文档与规范.pdf)。  
++ [系统运行时库、功能测试用例、性能测试用例](https://gitlab.eduxiji.net/windcome/sysyruntimelibrary)
 + [大赛评测提交流程](https://gitlab.eduxiji.net/nscscc/docs/-/blob/master/%E5%A4%A7%E8%B5%9B%E6%B5%8B%E8%AF%84%E6%8F%90%E4%BA%A4%E6%B5%81%E7%A8%8B.pdf)
 
 
